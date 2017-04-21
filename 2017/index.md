@@ -36,3 +36,7 @@ To be announced.
 #### Lectures
 
 Lectures are held on Friday, 9:50–11:30 in S202/C205.
+
+* April 21  
+  [Slides 1](CTBD_01_organization.pdf)  
+  [Slides 2](CTBD_02_intro.pdf)
