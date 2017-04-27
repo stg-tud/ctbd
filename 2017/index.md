@@ -41,3 +41,7 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
   [Slides 1](CTBD_01_organization.pdf)  
   [Slides 2](CTBD_02_intro.pdf)  
   [Exercise 1](CTBD_ex01.pdf)
+
+* April 28  
+  [Slides 3](CTBD_03_bigdata_intro.pdf)  
+  [Slides 4](CTBD_04_mapreduce.pdf)
