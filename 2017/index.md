@@ -44,4 +44,6 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
 
 * April 28  
   [Slides 3](CTBD_03_bigdata_intro.pdf)  
-  [Slides 4](CTBD_04_mapreduce.pdf)
+  [Slides 4](CTBD_04_mapreduce.pdf)  
+  [Exercise 2](CTBD_ex02.pdf) + [Code](CTBD_ex02.zip)  
+  [MapReduce paper](http://research.google.com/archive/mapreduce.html) by Dean and Ghemawat
