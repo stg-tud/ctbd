@@ -46,9 +46,12 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
   [Slides 3](CTBD_03_bigdata_intro.pdf)  
   [Slides 4](CTBD_04_mapreduce.pdf)  
   [Exercise 2](CTBD_ex02.pdf) + [Code](CTBD_ex02.zip)  
+  [Solution 2](CTBD_sol02.pdf) + [Code](CTBD_sol02.zip)  
   [MapReduce paper](http://research.google.com/archive/mapreduce.html) by Dean and Ghemawat
 
 * May 5  
   [Slides 5](CTBD_05_mapreduce.pdf)  
   [Slides 6](CTBD_06_gfs-hdfs.pdf)  
-  [Slides for Hadoop Demo](CTBD_05b_two_step_join.pdf) + [Code for multi-stage MapReduce](CTBD_05b_two_step_join.zip)
+  [Slides for Hadoop Demo](CTBD_05b_two_step_join.pdf) + [Code for multi-stage MapReduce](CTBD_05b_two_step_join.zip)  
+  [Exercise 3](CTBD_ex03.pdf)  
+  [Google File System paper](http://research.google.com/archive/gfs.html) by Ghemawat et al.
