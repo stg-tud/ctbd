@@ -31,7 +31,8 @@ reference for other people.
 
 #### Exam
 
-To be announced.
+The exam will take place on July 14 at 9:50 in S202/C205.
+
 
 #### Lectures
 
