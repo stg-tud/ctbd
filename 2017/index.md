@@ -61,3 +61,7 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
 
 * May 12  
   [Slides 7](CTBD_07_echosystem.pdf)
+
+* May 19  
+  [Slides 8](CTBD_08_futures_async_actors.pdf)  
+  [Exercise 4](CTBD_ex04.pdf)
