@@ -58,7 +58,6 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
   [Solution 3](CTBD_sol03.pdf)  
   [Google File System paper](http://research.google.com/archive/gfs.html) by Ghemawat et al.
 
-
 * May 12  
   [Slides 7](CTBD_07_echosystem.pdf)
 
@@ -76,3 +75,7 @@ Lectures are held on Friday, 9:50–11:30 in S202/C205.
   [Exercise 6](CTBD_ex06.pdf) + [Code](CTBD_ex06.zip)  
   [Solution 6](CTBD_sol06.pdf) + [Code](CTBD_sol06.zip)  
   [Apache Spark Resilient Distributed Datasets paper](http://www-bcf.usc.edu/~minlanyu/teach/csci599-fall12/papers/nsdi_spark.pdf) by Zaharia et al.
+
+* June 9  
+  [Slides 10](CTBD_10_spark_streaming.pdf)  
+  [Slides 11](CTBD_11_preparation.pdf)
