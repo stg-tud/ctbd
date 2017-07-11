@@ -31,7 +31,17 @@ reference for other people.
 
 #### Exam
 
-The exam will take place on July 14 at 9:50 in S202/C205.
+<div class="info">
+  <p>The exam will take place on July 14 at 9:50.
+  The room where the exam will take place is assigned by your surname.</p>
+
+  Surname starting with
+  <table>
+    <tr><td>AB – FA</td><td>S101/A5</td></tr>
+    <tr><td>FE – PR</td><td>S105/122</td></tr>
+    <tr><td>PU – ZI</td><td>S202/C205</td></tr>
+  </table>
+</div>
 
 
 #### Lectures
