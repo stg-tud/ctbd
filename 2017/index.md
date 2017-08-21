@@ -31,6 +31,7 @@ reference for other people.
 
 #### Exam
 
+<!--
 <div class="info">
   <p>The exam will take place on July 14 at 9:50.
   The room where the exam will take place is assigned by your surname.</p>
@@ -40,6 +41,23 @@ reference for other people.
     <tr><td>AB – FA</td><td>S101/A5</td></tr>
     <tr><td>FE – PR</td><td>S105/122</td></tr>
     <tr><td>PU – ZI</td><td>S202/C205</td></tr>
+  </table>
+</div>
+-->
+
+<div class="info">
+  <p>The Exam Review will take place on 30th of August in S202/E202.</p>
+
+  <p>Please use the time slot assigned by your surname. We can only guarantee you 15&thinsp;min review if you are on time.</p>
+
+  Surname starting with
+  <table>
+    <tr><td>Aa–Dc</td><td>13:30</td></tr>
+    <tr><td>Dd–Iz</td><td>14:00</td></tr>
+    <tr><td>Ja–Mf</td><td>14:30</td></tr>
+    <tr><td>Mg–Qz</td><td>15:00</td></tr>
+    <tr><td>Ra–Sk</td><td>15:30</td></tr>
+    <tr><td>Sl–Zz</td><td>16:00</td></tr>
   </table>
 </div>
 
