@@ -43,7 +43,6 @@ reference for other people.
     <tr><td>PU – ZI</td><td>S202/C205</td></tr>
   </table>
 </div>
--->
 
 <div class="info">
   <p>The Exam Review will take place on 30th of August in S202/E202.</p>
@@ -59,6 +58,11 @@ reference for other people.
     <tr><td>Ra–Sk</td><td>15:30</td></tr>
     <tr><td>Sl–Zz</td><td>16:00</td></tr>
   </table>
+</div>
+-->
+
+<div class="info">
+  The exam for the winter term (WS 17/18) will take place on March 2 at 17:00 in room S101/A1
 </div>
 
 
