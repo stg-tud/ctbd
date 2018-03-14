@@ -59,10 +59,16 @@ reference for other people.
     <tr><td>Sl–Zz</td><td>16:00</td></tr>
   </table>
 </div>
--->
 
 <div class="info">
   The exam for the winter term (WS 17/18) will take place on March 2 at 17:00 in room S101/A1
+</div>
+-->
+
+<div class="info">
+  <p>The grades for the exam of the winter term (WS 17/18) are available in TUCaN now.</p>
+
+  <p>We will announce the date for the exam review here.</p>
 </div>
 
 
