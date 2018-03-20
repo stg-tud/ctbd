@@ -67,8 +67,10 @@ reference for other people.
 
 <div class="info">
   <p>The grades for the exam of the winter term (WS 17/18) are available in TUCaN now.</p>
-
+<!--
   <p>We will announce the date for the exam review here.</p>
+-->
+  <p>The Exam Review will take place on 27th of March, 11:00–12:00 in S202/A213.</p>
 </div>
 
 
