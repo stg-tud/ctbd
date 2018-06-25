@@ -63,14 +63,22 @@ reference for other people.
 <div class="info">
   The exam for the winter term (WS 17/18) will take place on March 2 at 17:00 in room S101/A1
 </div>
--->
 
 <div class="info">
   <p>The grades for the exam of the winter term (WS 17/18) are available in TUCaN now.</p>
-<!--
   <p>We will announce the date for the exam review here.</p>
--->
   <p>The Exam Review will take place on 27th of March, 11:00–12:00 in S202/A213.</p>
+</div>
+
+<div class="info">
+  The exam in the summer term (SoSe 18) will take place at the end of July or beginning of August.
+  Note that the current date in TUCaN (July 24) may be subject to change due to conflicting exams.
+  We will announce the definite date for the exam here soon.
+</div>
+-->
+
+<div class="info">
+  The exam in the summer term (SoSe 18) will take place on July 24 at 14:00 in room S101/A01
 </div>
 
 
