@@ -78,7 +78,14 @@ reference for other people.
 -->
 
 <div class="info">
-  The exam in the summer term (SoSe 18) will take place on July 24 at 14:00 in room S101/A01
+  <p><strong>Important Update</strong></p>
+  <p>Due to conflicting exams, the exam was moved to another date.</p>
+  <p>We apologize for the short-term notice.
+  Unfortunately, it was not possible for us to get a new slot for the exam earlier.</p>
+</div>
+
+<div class="info">
+  The exam in the summer term (SoSe 18) will take place on July 25 at 10:00 in room S101/A01
 </div>
 
 
