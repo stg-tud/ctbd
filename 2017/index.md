@@ -75,7 +75,6 @@ reference for other people.
   Note that the current date in TUCaN (July 24) may be subject to change due to conflicting exams.
   We will announce the definite date for the exam here soon.
 </div>
--->
 
 <div class="info">
   <p><strong>Important Update</strong></p>
@@ -86,6 +85,12 @@ reference for other people.
 
 <div class="info">
   The exam in the summer term (SoSe 18) will take place on July 25 at 10:00 in room S101/A01
+</div>
+-->
+
+<div class="info">
+  <p>The grades for the exam of the summer term (SoSe 18) are available in TUCaN now.</p>
+  <p>We will announce the date for the exam review here.</p>
 </div>
 
 
