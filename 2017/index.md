@@ -91,6 +91,7 @@ reference for other people.
 <div class="info">
   <p>The grades for the exam of the summer term (SoSe 18) are available in TUCaN now.</p>
   <p>We will announce the date for the exam review here.</p>
+  <p>The Exam Review will take place on 11th of September, 10:00–11:00 in S202/A313.</p>
 </div>
 
 
