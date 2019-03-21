@@ -95,7 +95,8 @@ reference for other people.
 -->
 
 <div class="info">
-  The exam for the winter term (WS 18/19) will take place on February 28 at 10:00 in room S202/C205
+  <p>The exam for the winter term (WS 18/19) will take place on February 28 at 10:00 in room S202/C205</p>
+  <p>The exam review will take place on 28th of March, 10:00–11:00. Please <a href="http://www.stg.tu-darmstadt.de/staff/pascal_weisenburger/pascal_weisenburger.en.jsp">send me an email</a> if you would like to review your exam.</p>
 </div>
 
 
