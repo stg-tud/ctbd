@@ -92,11 +92,15 @@ reference for other people.
   <p>We will announce the date for the exam review here.</p>
   <p>The Exam Review will take place on 11th of September, 10:00–11:00 in S202/A313.</p>
 </div>
--->
 
 <div class="info">
   <p>The exam for the winter term (WS 18/19) will take place on February 28 at 10:00 in room S202/C205</p>
   <p>The exam review will take place on 28th of March, 10:00–11:00. Please <a href="http://www.stg.tu-darmstadt.de/staff/pascal_weisenburger/pascal_weisenburger.en.jsp">send me an email</a> if you would like to review your exam.</p>
+</div>
+-->
+
+<div class="info">
+  The exam in the summer term (SoSe 19) will take place on July 30 at 10:00 in room S101/A01
 </div>
 
 
